@@ -1,10 +1,10 @@
-<p>This is a repository for codeAnt AI</p>
-<a>
-Made with react,css,html</a>
+This is a repository for codeAnt AI
+
+Made with react,css,html
 
 
 
-<p>
+
 src/
 ├── assets/
 ├── components/
@@ -13,4 +13,3 @@ src/
 ├── App.js
 ├── index.css
 └── index.js
-</p>
